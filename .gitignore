@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# OS / editor cruft
+.DS_Store
+._*
+.idea/
+.vscode/
+
+# Overpass / tile caches (regenerable; delete to refresh)
+scripts/cache/
+data/cache/
+
+# Generated figure outputs (keep the folder, not the PNGs)
+figures/*.png
+figures/*.pdf
+figures_ORIGINAL/
+
+# Large local source datasets (point DATA_ROOT at your own copy)
+data/TURKEY/
+data/GEBCO_Marmara/
+data/CORINE_Land_Cover_Types/
+data/*.tif
+data/*.nc
+data/*.TAB

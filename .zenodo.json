@@ -1,0 +1,15 @@
+{
+  "title": "Multi-hazard risk assessment of the Marmara basin: figure-generation and analysis code",
+  "description": "Documented Python pipeline for a geospatial multi-hazard (earthquake, tsunami, strong wind) risk assessment of the Marmara Sea basin and Istanbul. Generates the publication figures from open geospatial datasets (Copernicus, GEBCO, ERA5, OpenStreetMap, MTA, TUIK, USGS, AFAD).",
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "creators": [
+    { "name": "Lemenkova, Polina", "affiliation": "Istanbul Technical University" },
+    { "name": "Zulfikar, Abdullah Can", "affiliation": "Istanbul Technical University" }
+  ],
+  "keywords": [
+    "multi-hazard", "Marmara", "Istanbul", "seismic hazard", "tsunami",
+    "wind hazard", "machine learning", "Python", "GIS", "urban resilience"
+  ]
+}

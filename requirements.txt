@@ -1,0 +1,11 @@
+# Core geospatial / numerical stack for the figure-generation scripts.
+# Pin to your working versions before archiving for exact reproducibility.
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+geopandas>=0.14
+rasterio>=1.3
+shapely>=2.0
+pyproj>=3.5
+requests>=2.31
+Pillow>=10.0

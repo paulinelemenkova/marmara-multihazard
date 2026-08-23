@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Multi-hazard risk assessment of the Marmara basin: figure-generation and analysis code"
+abstract: >-
+  Documented Python pipeline for a geospatial multi-hazard (earthquake,
+  tsunami, strong wind) risk assessment of the Marmara Sea basin and Istanbul.
+  Produces the publication figures from open geospatial datasets.
+type: software
+authors:
+  - family-names: Lemenkova
+    given-names: Polina
+    affiliation: "Istanbul Technical University"
+    # orcid: "https://orcid.org/XXXX-XXXX-XXXX-XXXX"   # <- add your ORCID
+  - family-names: Zülfikar
+    given-names: Abdullah Can
+    affiliation: "Istanbul Technical University"
+version: "1.0.0"
+date-released: "2026-08-23"
+license: MIT
+keywords:
+  - multi-hazard
+  - Marmara
+  - Istanbul
+  - seismic hazard
+  - tsunami
+  - wind hazard
+  - Python
+  - GIS
+# After the Zenodo release is minted, add its DOI here:
+# doi: "10.5281/zenodo.XXXXXXX"
