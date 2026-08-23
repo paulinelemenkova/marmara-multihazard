@@ -5,8 +5,15 @@
   "license": "MIT",
   "access_right": "open",
   "creators": [
-    { "name": "Lemenkova, Polina", "affiliation": "Istanbul Technical University" },
-    { "name": "Zulfikar, Abdullah Can", "affiliation": "Istanbul Technical University" }
+    {
+      "name": "Lemenkova, Polina",
+      "affiliation": "Istanbul Technical University",
+      "orcid": "0000-0002-5759-1089"
+    },
+    {
+      "name": "Zülfikar, Abdullah Can",
+      "affiliation": "Istanbul Technical University"
+    }
   ],
   "keywords": [
     "multi-hazard", "Marmara", "Istanbul", "seismic hazard", "tsunami",
